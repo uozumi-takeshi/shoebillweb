@@ -2,6 +2,7 @@ package sam;
 
 public class Bike {
 
+	public final String WINDOW = "1";
 	private String num;
 
 	public String getNum() {
