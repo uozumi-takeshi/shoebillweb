@@ -11,4 +11,8 @@ public class Body {
 	public void setNewBody(int newBody) {
 		this.newBody = newBody;
 	}
+
+	public String newMethod() {
+		return "";
+	}
 }
